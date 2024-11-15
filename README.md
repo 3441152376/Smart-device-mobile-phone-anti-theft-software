@@ -1,3 +1,34 @@
+Software download address: http://noa.egg404.cn/
+
+1) Close the application or reduce the alarm volume without knowing the password.
+
+2) Select the alarm sound and many other settings available for customization.
+
+3) If your phone restarts, the alarm will resume.
+
+4) A loud alarm will be triggered even if the phone is in silent mode.
+
+5) After the alarm is activated, the phone will vibrate and the screen will flash similar to a police light.
+
+Software functions Off mode, alarm when the phone is turned off.
+
+Headphone mode, alarm when the headset is unplugged.
+
+Bluetooth mode, alarm when the Bluetooth device is disconnected.
+
+Mobile mode, alarm when the phone is moved.
+
+Pocket mode, alarm when the phone is taken out of the pocket.
+
+Charging mode, alarm when the USB charging cable is unplugged.
+
+Airplane mode, alarm when the airplane mode is turned on, etc. . . . . . . .
+
+1. The user can set the function first, and the phone will sound an alarm when it is taken away by someone else.
+
+2. Allow you to use it more effectively, help you better protect the safety of your phone, and effectively sound the alarm.
+
+3. A multifunctional anti-theft alarm app, when someone secretly takes your phone.
 软件下载地址:http://noa.egg404.cn/
 
 
